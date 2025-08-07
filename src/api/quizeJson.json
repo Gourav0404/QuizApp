@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Marketing Language",
+      "Hyper Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "id": 2,
+    "question": "Which HTML tag is used to define an unordered list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<list>"
+    ],
+    "answer": "<ul>"
+  },
+  {
+    "id": 3,
+    "question": "What is the correct CSS syntax to change the text color to red?",
+    "options": [
+      "color = red;",
+      "text-color: red;",
+      "color: red;",
+      "font-color: red;"
+    ],
+    "answer": "color: red;"
+  },
+  {
+    "id": 4,
+    "question": "Which CSS property controls the text size?",
+    "options": [
+      "font-style",
+      "text-size",
+      "font-size",
+      "text-style"
+    ],
+    "answer": "font-size"
+  },
+  {
+    "id": 5,
+    "question": "Which HTML tag is used to insert an image?",
+    "options": [
+      "<img>",
+      "<image>",
+      "<pic>",
+      "<src>"
+    ],
+    "answer": "<img>"
+  },
+  {
+    "id": 6,
+    "question": "How do you include JavaScript in an HTML file?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<code>"
+    ],
+    "answer": "<script>"
+  },
+  {
+    "id": 7,
+    "question": "Which company developed JavaScript?",
+    "options": [
+      "Microsoft",
+      "Netscape",
+      "Google",
+      "Oracle"
+    ],
+    "answer": "Netscape"
+  },
+  {
+    "id": 8,
+    "question": "Which one is NOT a JavaScript data type?",
+    "options": [
+      "Number",
+      "String",
+      "Boolean",
+      "Float"
+    ],
+    "answer": "Float"
+  },
+  {
+    "id": 9,
+    "question": "How do you write a comment in CSS?",
+    "options": [
+      "// This is a comment",
+      "<!-- This is a comment -->",
+      "/* This is a comment */",
+      "' This is a comment"
+    ],
+    "answer": "/* This is a comment */"
+  },
+  {
+    "id": 10,
+    "question": "What is the default position value in CSS?",
+    "options": [
+      "absolute",
+      "fixed",
+      "relative",
+      "static"
+    ],
+    "answer": "static"
+  },
+  {
+    "id": 11,
+    "question": "What does DOM stand for?",
+    "options": [
+      "Document Object Model",
+      "Data Object Management",
+      "Document Order Model",
+      "Digital Object Mapping"
+    ],
+    "answer": "Document Object Model"
+  },
+  {
+    "id": 12,
+    "question": "Which symbol is used for IDs in CSS?",
+    "options": [
+      ".",
+      "#",
+      "$",
+      "@"
+    ],
+    "answer": "#"
+  },
+  {
+    "id": 13,
+    "question": "What does the `this` keyword refer to in a JavaScript object method?",
+    "options": [
+      "The global object",
+      "The object itself",
+      "A parent object",
+      "Undefined"
+    ],
+    "answer": "The object itself"
+  },
+  {
+    "id": 14,
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.objectify()",
+      "JSON.convert()"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is a JavaScript framework?",
+    "options": [
+      "Laravel",
+      "Django",
+      "React",
+      "Ruby on Rails"
+    ],
+    "answer": "React"
+  },
+  {
+    "id": 16,
+    "question": "Which tag is used to create a hyperlink in HTML?",
+    "options": [
+      "<link>",
+      "<href>",
+      "<a>",
+      "<hyperlink>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 17,
+    "question": "How can you apply the same styles to multiple elements in CSS?",
+    "options": [
+      "Use multiple IDs",
+      "Use a group selector with commas",
+      "Use inline styles",
+      "Use !important"
+    ],
+    "answer": "Use a group selector with commas"
+  },
+  {
+    "id": 18,
+    "question": "Which CSS framework is commonly used for responsive design?",
+    "options": [
+      "Tailwind",
+      "Bootstrap",
+      "Foundation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 19,
+    "question": "What is JSX in React?",
+    "options": [
+      "A CSS preprocessor",
+      "A JavaScript extension that looks like HTML",
+      "A database query language",
+      "A package manager"
+    ],
+    "answer": "A JavaScript extension that looks like HTML"
+  },
+  {
+    "id": 20,
+    "question": "Which hook is used for side effects in React?",
+    "options": [
+      "useRef",
+      "useState",
+      "useEffect",
+      "useReducer"
+    ],
+    "answer": "useEffect"
+  },
+  {
+    "id": 21,
+    "question": "What does the `useState` hook in React return?",
+    "options": [
+      "A single state value",
+      "An object with state and methods",
+      "An array with state and a function to update it",
+      "A boolean and a setter function"
+    ],
+    "answer": "An array with state and a function to update it"
+  },
+  {
+    "id": 22,
+    "question": "Which lifecycle method is called after a component is rendered in class components?",
+    "options": [
+      "componentDidMount",
+      "componentWillMount",
+      "render",
+      "componentDidUpdate"
+    ],
+    "answer": "componentDidMount"
+  },
+  {
+    "id": 23,
+    "question": "Which HTML tag is used to define a table row?",
+    "options": [
+      "<tr>",
+      "<td>",
+      "<th>",
+      "<row>"
+    ],
+    "answer": "<tr>"
+  },
+  {
+    "id": 24,
+    "question": "Which CSS property is used to create space inside the border of an element?",
+    "options": [
+      "margin",
+      "padding",
+      "spacing",
+      "border-spacing"
+    ],
+    "answer": "padding"
+  },
+  {
+    "id": 25,
+    "question": "Which JavaScript method is used to select an element by its ID?",
+    "options": [
+      "getElementByName",
+      "querySelectorAll",
+      "getElementById",
+      "getById"
+    ],
+    "answer": "getElementById"
+  },
+  {
+    "id": 26,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": [
+      "font",
+      "style",
+      "class",
+      "styles"
+    ],
+    "answer": "style"
+  },
+  {
+    "id": 27,
+    "question": "What does `event.preventDefault()` do in JavaScript?",
+    "options": [
+      "Stops the script",
+      "Prevents default browser behavior",
+      "Stops event bubbling",
+      "Resets the page"
+    ],
+    "answer": "Prevents default browser behavior"
+  },
+  {
+    "id": 28,
+    "question": "In CSS, how do you select an element with the class 'container'?",
+    "options": [
+      "#container",
+      ".container",
+      "*container",
+      "container"
+    ],
+    "answer": ".container"
+  },
+  {
+    "id": 29,
+    "question": "Which React hook is used to access DOM elements directly?",
+    "options": [
+      "useEffect",
+      "useMemo",
+      "useRef",
+      "useReducer"
+    ],
+    "answer": "useRef"
+  },
+  {
+    "id": 30,
+    "question": "What is the purpose of keys in React lists?",
+    "options": [
+      "To identify which items have changed",
+      "To apply styles",
+      "To store values",
+      "To sort the list"
+    ],
+    "answer": "To identify which items have changed"
+  }
+]
